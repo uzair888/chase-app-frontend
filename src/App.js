@@ -12,6 +12,7 @@ function App() {
   return (
     <div className="App">
       <div className="table-wrapper">
+      <h1>Students Record</h1>
         <table className="custom-table">
           <thead>
             <tr>
