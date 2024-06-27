@@ -1,0 +1,9 @@
+front-end run application commands:
+For installing dependencies:
+npm install
+
+For front-end app run:
+npm start
+
+For run test
+npm test
